@@ -6,6 +6,7 @@
 }
 
 body {
+    height: 100vh;
     background-color: #0d1117;
     color: #ffffff;
 }
@@ -35,6 +36,7 @@ nav ul li a:hover {
 
 /* Section */
 section {
+    height: 80vh;
     padding: 60px 10%;
 }
 
@@ -63,6 +65,7 @@ h1, h2 {
 /* Card */
 .card {
     background-color: #161b22;
+    /* background-color: red; */
     padding: 20px;
     border-radius: 8px;
     margin-bottom: 20px;
